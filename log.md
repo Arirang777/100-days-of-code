@@ -1,2 +1,2 @@
 001day-July 2nd 2017 Happy Canada day! Reset and retook the challenge.   FUCK THE SHAME!!  Shame is to be in the void, doing nothing.  I can not guarantee I won't stall again in the future but I can totally guarantee that I will reset and continue over and over and over.  Today I reviewed my "tribute" page most likely my mock page and I know it is not going to be perfect the first time and have accepted it.
-002-005 july 6 2017.  Working in T-page.  Formatting page and learning on the fly more about CSS "style" properties, inline and global
+/*002-005 july 6 2017.  Working in T-page.  Formatting page and learning on the fly more about CSS "style" properties, inline and global
