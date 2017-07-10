@@ -4,3 +4,4 @@ D006-July 07.  Added style= margin, padding, text-align, Table, found out about 
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>=====
 D007-Jul 08.  Analized sample tribute page and compared it to mine.  Little triks found. Good.   Seeing portfolios to get some inspiration
 D008.Jul 9:  Still studying sample tribute page, copied all HTML and CSS and doesnn't display the same, why? because I have to set to load bootstrat3 on the pen page, that's why
+D009.jul 10: Went back to deeply analize sample tribute page, just nine main sections, new tags like <blockquote>, <em>=<i>, <strong>=<b>, <footer>, <cite>, and the use of classes to modify HTML.  So simple.  Will practice this until I am able to do a page like this in my sleep.
