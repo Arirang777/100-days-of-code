@@ -8,3 +8,4 @@ D009.jul 10: Went back to deeply analize sample tribute page, just nine main sec
 D010.Jul 11: I have translated almost all of the sample tribute page to "plain English" but the line <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2"> is still a mistery for me, how does it works?
 D011.Jul 13:All of FCC tribute page solved.  It holds no mystery for me.  Now my sight is on portfolio page
 D012. Jul 14: Having fun with HTML CSS and BOOTSTRAP, I am making pages just for fun, practice and experimenting
+D013. Jul 15: Reviewing CSS and bootstrap.  It feels like today was a waste of my time.   
